@@ -1,4 +1,4 @@
-from mdp.belief_mpd import *
+from mdp.belief_mdp import *
 
 
 class TigerProblem():
